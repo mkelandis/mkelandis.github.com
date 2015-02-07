@@ -86,5 +86,5 @@ Once that big release goes out the door, there will likely be a period of relaxe
 
 ###Agile Practices
 
-Hopefully you can see how **Agile Practices** address Business Pressure, Inadequate Review, Definition of Done and Delayed Refactoring in order to attack the **[system of technical debt](/software%20engineering/2014/03/06/tech-debt/#technical_debt_has_a_feedback_loop)**. Using these techniques we can prevent and tackle technical debt on your projects.
+Hopefully you can see how **Agile Practices** address Business Pressure, Inadequate Review, Definition of Done and Delayed Refactoring in order to attack the **[system of technical debt](/software%20engineering/2014/03/06/tech-debt/#technical_debt_has_a_feedback_loop)**. Using these techniques you can prevent and tackle technical debt on your projects.
 

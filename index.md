@@ -1,7 +1,7 @@
 ---
 layout: page
-title:    
-tagline: code. musings.
+title: mkeblog   
+tagline: code.musings. 
 ---
 {% include JB/setup %}
 
