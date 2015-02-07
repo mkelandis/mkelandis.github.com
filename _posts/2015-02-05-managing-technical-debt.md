@@ -58,7 +58,7 @@ Agile Values include **Transparency**. Dedicate time during Sprint Retros to rai
 
 Do you have a **policy** for tackling tech debt? ...is it working?  ...does it need to be changed?
 
-Accumulation of tech debt could point to an [inadequate definition of done](/software%20engineering/2014/03/06/tech-debt/#inadequate_review__dod). Is your definition of done up to date?  Does it need to be re-evaluated?
+Accumulation of tech debt could point to an **[inadequate definition of done](/software%20engineering/2014/03/06/tech-debt/#inadequate_review__dod)**. Is your definition of done up to date?  Does it need to be re-evaluated?
 
 ###When?
 
@@ -78,7 +78,7 @@ When technical debt blocks you from completing your work, that's probably a red 
 
 ####Dedicated Sprints
 
-More often than we might like to admit, technical debt is accumulated more during the last bit of development, close to release time. That is when we're most likely to experience elevated [Business Pressure](/software%20engineering/2014/03/06/tech-debt/#business_pressure). We're more likely to sacrifice the **definition of done** in order to get a release out the door. 
+More often than we might like to admit, technical debt is accumulated more during the last bit of development, close to release time. That is when we're most likely to experience elevated **[Business Pressure](/software%20engineering/2014/03/06/tech-debt/#business_pressure)**. We're more likely to sacrifice the **definition of done** in order to get a release out the door. 
 
 Although this particular risk can be mitigated by practicing **Continuous Delivery**, that technique is for another time, another blog.
 
@@ -86,5 +86,5 @@ Once that big release goes out the door, there will likely be a period of relaxe
 
 ###Agile Practices
 
-Hopefully you can see how **Agile Practices** address Business Pressure, Inadequate Review, Definition of Done and Delayed Refactoring in order to attack the [system of technical debt](/software%20engineering/2014/03/06/tech-debt/#technical_debt_has_a_feedback_loop). Using these techniques we can prevent and tackle technical debt on your projects.
+Hopefully you can see how **Agile Practices** address Business Pressure, Inadequate Review, Definition of Done and Delayed Refactoring in order to attack the **[system of technical debt](/software%20engineering/2014/03/06/tech-debt/#technical_debt_has_a_feedback_loop)**. Using these techniques we can prevent and tackle technical debt on your projects.
 
