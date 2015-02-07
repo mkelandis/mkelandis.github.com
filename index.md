@@ -5,12 +5,6 @@ tagline: code. musings.
 ---
 {% include JB/setup %}
 
-Topics:
-
-* Software Engineering
-* Music
-* Guitars and Amplifiers  
-
 ## Latest Posts
 
 <ul class="posts">
