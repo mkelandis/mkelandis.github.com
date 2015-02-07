@@ -9,7 +9,7 @@ tags: [agile practices]
 
 In a previous article, I introduced **[technical debt as a *system* with a positive feedback loop](/software%20engineering/2014/03/06/tech-debt/)**. In this one, I discuss using **Agile Practices** to tackle not only the debt, but also the **Technical Debt System** in order to minimize and break the positive feedback loop. Let's talk about the how and the when, on the following fronts:
 
-* Business Pressure, Inadequate Review & Definition of Done, Delayed Refactoring, Fear
+* Business Pressure, Inadequate Review, Definition of Done, Delayed Refactoring, Fear
 
 ![image](/assets/posts/2015-02-06-managing-tech-debt/techdebt-attack-state.png)
 
